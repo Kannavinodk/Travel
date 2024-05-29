@@ -1,0 +1,59 @@
+.margin{
+    margin: 20px 170px 75px 170px;
+}
+
+.heading {
+    text-align: center;
+    background-color: grey;
+    border: 60px;
+    font-size: 20px;
+}
+
+.name {
+    font-size: 23px;
+    height: 40px;
+    font-weight: bold;
+}
+.ans{
+    font-weight: normal ;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    margin-top: 0px; /* Using flexbox for layout */
+}
+
+/* Style for the content div */
+.content {
+    flex: 1; /* Allow content to take remaining space */
+}
+
+/* Style for the image */
+.right-image {
+    width: 140px; /* Adjust width as needed */
+    height: 150px; /* Maintain aspect ratio */
+    margin-left: 20px;
+    margin-bottom: 5px; /* Add margin to separate content and image */
+}
+
+.objective{
+    line-height: 30px;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.numbers{
+    font-size: 20px;
+    line-height: 33px;
+}
+
+.projects{
+    font-size: 20px;
+    line-height: 33px;
+}
+
+.hob{
+    font-size: 20px;
+    line-height: 33px;
+}

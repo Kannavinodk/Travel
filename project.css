@@ -1,0 +1,17 @@
+#container {
+    position:relative;
+    display: flex;
+}
+
+#img2 {
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    height: 75px;
+    width: 90px;
+}
+
+.transparent-navbar {
+    background-color: transparent;
+  }
+  
